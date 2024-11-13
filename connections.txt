@@ -1,0 +1,14 @@
+connection(3,4,300).
+connection(4,1,100).
+connection(4,10,400).
+connection(4,5,200).
+connection(1,2,100).
+connection(2,5,300).
+connection(2,6,300).
+connection(5,9,700).
+connection(6,9,700).
+connection(9,10,400).
+connection(1,7,200).
+connection(6,7,200).
+connection(8,7,400).
+connection(10,7,600).
